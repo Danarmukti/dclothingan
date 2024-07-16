@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sepatu Niken",
+    "category": "sepatu",
+    "price": 100000,
+    "description": "Sepatu niken lebih dari pada nike",
+    "image": "../img/sepatu1.png"
+  },
+  {
+    "name": "Sepatu Skin",
+    "category": "sepatu",
+    "price": 300000,
+    "description": "literally sepatu kulit",
+    "image": "../img/sepatu2.png"
+  },
+  {
+    "name": "Sepatu Sneakers",
+    "category": "sepatu",
+    "price": 240000,
+    "description": "Sepatu sneakers",
+    "image": "../img/sepatu3.png"
+  },
+  {
+    "name": "Sepatu Running",
+    "category": "sepatu",
+    "price": 200000,
+    "description": "sepatu buat lari",
+    "image": "../img/sepatu4.png"
+  },
+  {
+    "name": "Baju 1",
+    "category": "baju",
+    "price": 100000,
+    "description": "Baju apa ya namanya",
+    "image": "../img/baju.png"
+  },
+  {
+    "name": "Kaos polos",
+    "category": "baju",
+    "price": 50000,
+    "description": "Kaos polos adem 500 gsm",
+    "image": "../img/baju2.png"
+  },
+  {
+    "name": "Kaos Smile",
+    "category": "baju",
+    "price": 75000,
+    "description": "kaos polos dengen motif smile",
+    "image": "../img/baju3.png"
+  },
+  {
+    "name": "Celana Chino pendek",
+    "category": "celana",
+    "price": 60000,
+    "description": "Celana chino pendek cocok buat dirumah aja atau buat hangout",
+    "image": "../img/celana1.png"
+  },
+  {
+    "name": "Celana Training",
+    "category": "celana",
+    "price": 75000,
+    "description": "celana buat olahraga",
+    "image": "../img/celana2.png"
+  },
+  {
+    "name": "Celana Chino panjang",
+    "category": "celana",
+    "price": 80000,
+    "description": "Celana chino panjang",
+    "image": "../img/celana3.png"
+  }
+]
